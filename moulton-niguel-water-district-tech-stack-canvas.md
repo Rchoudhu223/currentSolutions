@@ -4,6 +4,8 @@ Source: Samsara discovery call recorded Jun 24, 2026.
 
 Purpose: rough, editable canvas for a customer working session. Use this to validate what is live today, what is down or manual, and where Samsara may connect or replace workflows.
 
+Editable draw.io file: [moulton-niguel-water-district-tech-stack-canvas.drawio](moulton-niguel-water-district-tech-stack-canvas.drawio). Download this file and upload it to diagrams.net/draw.io to view and edit the canvas.
+
 ## 1. Simple current-state canvas
 
 ```mermaid

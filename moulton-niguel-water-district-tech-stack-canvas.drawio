@@ -1,0 +1,197 @@
+<mxfile host="app.diagrams.net" modified="2026-06-25T22:28:00.000Z" agent="Cursor Cloud" version="24.7.17" type="device">
+  <diagram id="moulton-niguel-current-stack" name="Current Tech Stack Canvas">
+    <mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Moulton-Niguel Water District - Current Tech Stack Canvas" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Editable workshop canvas derived from Samsara discovery call recorded Jun 24, 2026. Validate gray/amber items live with customer." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#44546F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="1180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-current" value="Current system / process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=12;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="25" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-gap" value="Gap / manual process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=12;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="25" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-validate" value="Validate / unknown" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F5F7;strokeColor=#97A0AF;fontSize=12;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="65" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-future" value="Future / restoration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3FCEF;strokeColor=#36B37E;fontSize=12;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="65" width="170" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="section-fleet" value="Fleet / Assets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-location" value="Location / Telematics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="120" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-maintenance" value="Maintenance / Work Orders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-fuel" value="Fueling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="985" y="120" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-compliance" value="Emissions / Compliance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="545" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-safety" value="Safety / Cameras" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="545" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-dispatch" value="Operations / Dispatch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="985" y="545" width="270" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="section-questions" value="Workshop Validation Questions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=#C1C7D0;fontSize=16;fontStyle=1;fontColor=#172B4D;verticalAlign=top;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="120" width="300" height="790" as="geometry" />
+        </mxCell>
+
+        <mxCell id="class8" value="~13 Class 8 / larger trucks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="70" y="175" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lightfleet" value="~110-115 other fleet units&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Exact mix TBD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4F5F7;strokeColor=#97A0AF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="assets" value="~30 Verizon-tracked assets&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mobile generators, mobile pumps, backhoes, construction equipment, larger/heavy trucks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="70" y="355" width="210" height="95" as="geometry" />
+        </mxCell>
+
+        <mxCell id="verizon" value="Verizon asset trackers&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;IT-owned / budgeted; location only&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="385" y="190" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="notelematics" value="No fleet telematics platform today&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;No routine ECU / diagnostics data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="385" y="310" width="210" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ejward-maint" value="EJ Ward&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mileage / hours capture; service triggers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="175" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nextgen" value="NextGen CMMS&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Work order system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="notes" value="Fleet details entered in description / notes fields&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Not a fleet-specific CMMS workflow&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="380" width="210" height="75" as="geometry" />
+        </mxCell>
+
+        <mxCell id="onsitefuel" value="On-site fueling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="160" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="temptanks" value="Temporary above-ground tanks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="250" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="paperfuel" value="Current fuel process appears manual / pen and paper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="340" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ust" value="Underground fuel storage system currently down&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Hope to restore, timing uncertain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3FCEF;strokeColor=#36B37E;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="430" width="210" height="75" as="geometry" />
+        </mxCell>
+
+        <mxCell id="noregon" value="Noregon scan tool subscription" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="385" y="605" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="manualctc" value="Manual Clean Truck Check / BAR CTP&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Technician connects scan tool to each truck; add-on cost roughly ~$1,000/year&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="385" y="705" width="210" height="95" as="geometry" />
+        </mxCell>
+
+        <mxCell id="rvs" value="Rear View Safety (RVS)&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Vehicle camera systems&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="605" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="monitor" value="Operator monitor for front / rear / side views" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="715" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nodvr" value="No DVR / recording&lt;br&gt;No forward-facing dash cam for traffic events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="700" y="810" width="210" height="75" as="geometry" />
+        </mxCell>
+
+        <mxCell id="supervisors" value="Supervisors direct crews" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FF;strokeColor=#4C9AFF;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="605" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="manualcomms" value="In person, phone, email, and likely radio/manual coordination" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="710" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="noscreen" value="No central screen dispatching based on live location" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4E5;strokeColor=#FFAB00;fontSize=13;fontColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="825" width="210" height="65" as="geometry" />
+        </mxCell>
+
+        <mxCell id="q1" value="1. What systems are mandatory systems of record?&lt;br&gt;- Work orders&lt;br&gt;- Fuel&lt;br&gt;- Compliance&lt;br&gt;- Asset inventory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C1C7D0;fontSize=12;fontColor=#172B4D;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="175" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q2" value="2. Who owns each platform?&lt;br&gt;- IT&lt;br&gt;- Fleet&lt;br&gt;- Operations&lt;br&gt;- Compliance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C1C7D0;fontSize=12;fontColor=#172B4D;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="320" width="250" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="q3" value="3. What should phase-one success prove?&lt;br&gt;- Compliance automation&lt;br&gt;- Maintenance automation&lt;br&gt;- Live asset visibility&lt;br&gt;- Safety video&lt;br&gt;- Fuel tracking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C1C7D0;fontSize=12;fontColor=#172B4D;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="460" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="q4" value="4. What data must flow between systems?&lt;br&gt;- Samsara to NextGen&lt;br&gt;- Samsara to EJ Ward&lt;br&gt;- EJ Ward to NextGen&lt;br&gt;- Manual import/export" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C1C7D0;fontSize=12;fontColor=#172B4D;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="625" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="q5" value="5. Which assets are in scope?&lt;br&gt;- Class 8 trucks&lt;br&gt;- Light/medium fleet&lt;br&gt;- Mobile generators&lt;br&gt;- Mobile pumps&lt;br&gt;- Construction equipment&lt;br&gt;- Other" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C1C7D0;fontSize=12;fontColor=#172B4D;align=left;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="775" width="250" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="edge-class8-verizon" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="class8" target="verizon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-assets-verizon" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="assets" target="verizon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-verizon-notelematics" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="verizon" target="notelematics">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-class8-ejward" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="class8" target="ejward-maint">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-light-ejward" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="lightfleet" target="ejward-maint">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ejward-nextgen" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="ejward-maint" target="nextgen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-nextgen-notes" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="nextgen" target="notes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-onsite-temp" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="onsitefuel" target="temptanks">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-temp-paper" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="temptanks" target="paperfuel">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ust-ejward" value="expected future recovery" style="endArrow=block;html=1;rounded=0;dashed=1;strokeColor=#36B37E;strokeWidth=2;fontSize=11;fontColor=#172B4D;" edge="1" parent="1" source="ust" target="ejward-maint">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-class8-noregon" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="class8" target="noregon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-noregon-manualctc" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="noregon" target="manualctc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-class8-rvs" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="class8" target="rvs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-rvs-monitor" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="rvs" target="monitor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-rvs-nodvr" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="rvs" target="nodvr">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-class8-supervisors" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="class8" target="supervisors">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-light-supervisors" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="lightfleet" target="supervisors">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-assets-supervisors" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="assets" target="supervisors">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-supervisors-manualcomms" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="supervisors" target="manualcomms">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-manualcomms-noscreen" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#6B778C;strokeWidth=2;" edge="1" parent="1" source="manualcomms" target="noscreen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
